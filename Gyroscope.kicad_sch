@@ -8061,7 +8061,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T"
 			(at 40.3352 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -8379,7 +8379,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T"
 			(at 110.1852 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -8706,7 +8706,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T"
 			(at 91.1352 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -8867,7 +8867,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T"
 			(at 135.5852 30.48 0)
 			(hide yes)
 			(show_name no)
