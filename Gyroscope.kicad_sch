@@ -4,6 +4,12 @@
 	(generator_version "10.0")
 	(uuid "2348a7d7-1be5-4f95-9e77-35509f4f3573")
 	(paper "A4")
+	(title_block
+		(title "Mechanical vibrations monitor")
+		(date "2026-05-29")
+		(rev "Islam Tarek")
+		(company "IslamHUFE")
+	)
 	(lib_symbols
 		(symbol "Auxiliary_Items:MountingScrew"
 			(exclude_from_sim no)
