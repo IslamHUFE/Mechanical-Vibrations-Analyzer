@@ -1344,7 +1344,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Gyroscope.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
